@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261002151908SA689B</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261002151908FBQF9X</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.5</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1790972346145</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mureoug3-a1anoo0cf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mureoug3-a1anoo0cf</odePageId>
+      <odeBlockId>block-murep712-jp5gb4h6b</odeBlockId>
+      <blockName>Comunicación y Educación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mureoug3-a1anoo0cf</odePageId>
+          <odeBlockId>block-murep712-jp5gb4h6b</odeBlockId>
+          <odeIdeviceId>idevice-1790972357073-58iim8tcw</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1790972357073-58iim8tcw" title="Comunicación y Educación" href="{{context_path}}/content/resources/pren 4.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/pren 4.jpg" height="128" width="128" title="Comunicación y Educación" alt="Comunicación y Educación" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790972357073-58iim8tcw","img_0":{"img":"{{context_path}}/content/resources/pren 4.jpg","thumbnail":"{{context_path}}/content/resources/pren 4.jpg","title":"Comunicación y Educación","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murev7o0-ks0wqe10h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bienvenida </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murev7o0-ks0wqe10h</odePageId>
+      <odeBlockId>block-murevwwr-wlxgnuxfo</odeBlockId>
+      <blockName>BIENVENIDA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murev7o0-ks0wqe10h</odePageId>
+          <odeBlockId>block-murevwwr-wlxgnuxfo</odeBlockId>
+          <odeIdeviceId>idevice-1790972670554-nzaqzwhd2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; color: #34495e;"><strong><span style="font-size: 14pt;">Presentación. Comunicación Educativa </span></strong></span></p>
+<div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">
+<p>En esta asignatura de Comunicación Educativa, continuamos estudiando la interrelación que existe entre los procesos de comunicación y educación, para abordar ahora de forma específica la relación entre docente y alumno en su trabajo en el aula y el uso de los medios de difusión como auxiliares didácticos en la educación formal.</p>
+<p>La comunicación educativa incluye el estudio de las teorías de comunicación, la incorporación de la tecnología educativa, así como el estudio de los procesos de comunicación desde perspectivas diversas, de igual manera el alumno ponderará la eficacia de las herramientas pedagógicas surgidas de las TIC y su efecto en el aula. </p>
+<p><br /></p>
+<p>Finalmente, esta vinculación entre las nuevas tecnologías y la educación, las revisará el estudiante a través del análisis de los usos didácticos de los mass media y las innovaciones tecnológicas. </p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790972670554-nzaqzwhd2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif; color: #34495e;\"><strong><span style=\"font-size: 14pt;\">Presentación. Comunicación Educativa </span></strong></span></p>\n<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">\n<p>En esta asignatura de Comunicación Educativa, continuamos estudiando la interrelación que existe entre los procesos de comunicación y educación, para abordar ahora de forma específica la relación entre docente y alumno en su trabajo en el aula y el uso de los medios de difusión como auxiliares didácticos en la educación formal.</p>\n<p>La comunicación educativa incluye el estudio de las teorías de comunicación, la incorporación de la tecnología educativa, así como el estudio de los procesos de comunicación desde perspectivas diversas, de igual manera el alumno ponderará la eficacia de las herramientas pedagógicas surgidas de las TIC y su efecto en el aula. </p>\n<p><br /></p>\n<p>Finalmente, esta vinculación entre las nuevas tecnologías y la educación, las revisará el estudiante a través del análisis de los usos didácticos de los mass media y las innovaciones tecnológicas. </p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-murev7o0-ks0wqe10h</odePageId>
+      <odeBlockId>block-murevicx-jsiyo1mao</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murev7o0-ks0wqe10h</odePageId>
+          <odeBlockId>block-murevicx-jsiyo1mao</odeBlockId>
+          <odeIdeviceId>idevice-1790972651696-frjgctvbo</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1790972651696-frjgctvbo" title="" href="{{context_path}}/content/resources/Pre 1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Pre 1.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790972651696-frjgctvbo","img_0":{"img":"{{context_path}}/content/resources/Pre 1.jpg","thumbnail":"{{context_path}}/content/resources/Pre 1.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murfas7z-fpjqxa0i6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Objetivos </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murfas7z-fpjqxa0i6</odePageId>
+      <odeBlockId>block-murfbrx7-0g9zv4j7j</odeBlockId>
+      <blockName>APRENDIZAJE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murfas7z-fpjqxa0i6</odePageId>
+          <odeBlockId>block-murfbrx7-0g9zv4j7j</odeBlockId>
+          <odeIdeviceId>idevice-1790973410585-56rxfmac0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="background-color: #a9d1cc; padding: 15px; border-radius: 8px; text-align: center;">OBJETIVOS</div>
+<p><br /></p>
+<div style="background-color: #a9d1cc; padding: 15px; border-radius: 8px; text-align: center;">
+<ul>
+<li>Analizar los enfoques teóricos y los elementos metodológicos en el estudio de la comunicación, vinculados con el proceso educativo.</li>
+<li>Aplicar los conceptos y las categorías en el análisis de los procesos comunicacionales implícitos en la práctica educativa.</li>
+</ul>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790973410585-56rxfmac0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background-color: #a9d1cc; padding: 15px; border-radius: 8px; text-align: center;\">OBJETIVOS</div>\n<p><br /></p>\n<div style=\"background-color: #a9d1cc; padding: 15px; border-radius: 8px; text-align: center;\">\n<ul>\n<li>Analizar los enfoques teóricos y los elementos metodológicos en el estudio de la comunicación, vinculados con el proceso educativo.</li>\n<li>Aplicar los conceptos y las categorías en el análisis de los procesos comunicacionales implícitos en la práctica educativa.</li>\n</ul>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murfmks2-9rbsgu27u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Calendario </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Calendario </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murfmks2-9rbsgu27u</odePageId>
+      <odeBlockId>block-murfphnt-8kqlygdcb</odeBlockId>
+      <blockName>Calendario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murfmks2-9rbsgu27u</odePageId>
+          <odeBlockId>block-murfphnt-8kqlygdcb</odeBlockId>
+          <odeIdeviceId>idevice-1790974050471-6cxyy6kpp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="background-color: #87ceeb; padding: 15px; border-radius: 8px; text-align: center;"><strong>CALENDARIO</strong></div>
+<p><br /></p>
+<div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">En este curso, el taller se desarrollará los días martes, miércoles y jueves del 10 de octubre del 2026 al 01 de noviembre del 2026, de forma presencial en el aula 2 de la DGTIC de 14:00 a 18:00. </div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790974050471-6cxyy6kpp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px; text-align: center;\"><strong>CALENDARIO</strong></div>\n<p><br /></p>\n<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">En este curso, el taller se desarrollará los días martes, miércoles y jueves del 10 de octubre del 2026 al 01 de noviembre del 2026, de forma presencial en el aula 2 de la DGTIC de 14:00 a 18:00. </div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murg3i7y-9c6kqgymw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Temario </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temario </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murg3i7y-9c6kqgymw</odePageId>
+      <odeBlockId>block-murg3kmc-aj3azzi3i</odeBlockId>
+      <blockName>Temario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murg3i7y-9c6kqgymw</odePageId>
+          <odeBlockId>block-murg3kmc-aj3azzi3i</odeBlockId>
+          <odeIdeviceId>idevice-1790974707490-rllh1nmre</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="background-color: #87ceeb; padding: 15px; border-radius: 8px; text-align: center;"><strong>Unidad 1. Educación y comunicación: procesos articulantes</strong></div>
+<p><br /></p>
+<div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">
+<ul>
+<li>1.1 Comunicación educativa y su objeto de estudio.</li>
+<li>1.2 Comunicación en el aula: del modelo tradicional al diálogo y la participación.</li>
+</ul>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790974707490-rllh1nmre","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px; text-align: center;\"><strong>Unidad 1. Educación y comunicación: procesos articulantes</strong></div>\n<p><br /></p>\n<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">\n<ul>\n<li>1.1 Comunicación educativa y su objeto de estudio.</li>\n<li>1.2 Comunicación en el aula: del modelo tradicional al diálogo y la participación.</li>\n</ul>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murgbpu8-cshux5aji</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murgbpu8-cshux5aji</odePageId>
+      <odeBlockId>block-murgbro1-xvtcvy04u</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murgbpu8-cshux5aji</odePageId>
+          <odeBlockId>block-murgbro1-xvtcvy04u</odeBlockId>
+          <odeIdeviceId>idevice-1790975089871-lyrsyvlca</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;"><strong>A continuación se muestra el valor porcentual de las actividades que se desarrollarán en este curso-taller:</strong></div>
+<p><br /></p>
+<div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">Actividades obligatorias - 40 %</div>
+<p><br /></p>
+<div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">
+<ul>
+<li>Se promediarán las calificaciones de todas las actividades de aprendizaje realizadas durante el curso-taller.</li>
+</ul>
+</div>
+<p><br /></p>
+<div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">Producto final - 60 %</div>
+<p><br /></p>
+<div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">
+<ul>
+<li>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de IAGen que sirvan para alcanzar el objetivo de aprendizaje.</li>
+</ul>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790975089871-lyrsyvlca","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\"><strong>A continuación se muestra el valor porcentual de las actividades que se desarrollarán en este curso-taller:</strong></div>\n<p><br /></p>\n<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">Actividades obligatorias - 40 %</div>\n<p><br /></p>\n<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">\n<ul>\n<li>Se promediarán las calificaciones de todas las actividades de aprendizaje realizadas durante el curso-taller.</li>\n</ul>\n</div>\n<p><br /></p>\n<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">Producto final - 60 %</div>\n<p><br /></p>\n<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">\n<ul>\n<li>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de IAGen que sirvan para alcanzar el objetivo de aprendizaje.</li>\n</ul>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murgm3sq-gara62sky</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bibliografía </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bibliografía </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murgm3sq-gara62sky</odePageId>
+      <odeBlockId>block-murgmo72-xx882lidl</odeBlockId>
+      <blockName>Fuentes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murgm3sq-gara62sky</odePageId>
+          <odeBlockId>block-murgmo72-xx882lidl</odeBlockId>
+          <odeIdeviceId>idevice-1790975598589-f3xnk1src</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="background-color: #87ceeb; padding: 15px; border-radius: 8px;">
+<p>Los principales recursos didácticos que se planearon para que abordes los contenidos de la asignatura son diversos textos que integran la Antología de lecturas para Comunicación Educativa. Se encuentra en la librería del segundo piso de la Torre I de Humanidades en Ciudad Universitaria-UNAM.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790975598589-f3xnk1src","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background-color: #87ceeb; padding: 15px; border-radius: 8px;\">\n<p>Los principales recursos didácticos que se planearon para que abordes los contenidos de la asignatura son diversos textos que integran la Antología de lecturas para Comunicación Educativa. Se encuentra en la librería del segundo piso de la Torre I de Humanidades en Ciudad Universitaria-UNAM.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-murgousb-z6ercxhwj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-murgousb-z6ercxhwj</odePageId>
+      <odeBlockId>block-murgozqb-p8fm2kl52</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-murgousb-z6ercxhwj</odePageId>
+          <odeBlockId>block-murgozqb-p8fm2kl52</odeBlockId>
+          <odeIdeviceId>idevice-1790975706850-660zsxp7d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="background-color: #2f3d5e; padding: 15px; border-radius: 8px; text-align: center;"><strong><span style="color: #ecf0f1;">Espino Rodríguez Alexis Jesús</span></strong></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790975706850-660zsxp7d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background-color: #2f3d5e; padding: 15px; border-radius: 8px; text-align: center;\"><strong><span style=\"color: #ecf0f1;\">Espino Rodríguez Alexis Jesús</span></strong></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
